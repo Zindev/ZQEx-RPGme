@@ -1,0 +1,6 @@
+name: ZQEx-RPGme
+author: Zindev
+version: 0.1
+description: ZQEx-RPGme by Zindev
+depend: [ZQuest,RPGme]
+main: me.Zindev.zqexrpgm.Main
